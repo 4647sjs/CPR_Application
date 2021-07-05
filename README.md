@@ -12,8 +12,10 @@ https://drive.google.com/file/d/1v1F4Lg75ZJQ0PmnGmeZfXyuxjfok26Qb/view?usp=shari
   - 환자의 증상을 체크하여 적절한 응급 대처를 알려주는 기능
   - 대표적인 응급 질환의 정보나 응급처치 방법을 보여준다
 
+
 2. 근처 AED 위치 표시
   - 근처에 있는 AED의 위치를 표시해준다.
+
 
 3. 근처 약국 위치 표시
   - 근처에 있는 약국의 위치를 표시해준다.
